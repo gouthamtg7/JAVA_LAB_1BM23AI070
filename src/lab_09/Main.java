@@ -1,7 +1,7 @@
-package lab_07;
+package lab_09;
 
 public class Main {
     public static void main(String[] args) {
-        program_1_Pharmacy.main(args);
+        Stack.main(args);
     }
 }
